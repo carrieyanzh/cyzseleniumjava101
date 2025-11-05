@@ -19,6 +19,9 @@ set LT_USERNAME="carrieyanzh"
 set LT_ACCESS_KEY="LT_DSaDbhGJPOhItmeOgbK2PVHOkZNm6xTMbaEf0AHHqQJ9GHW"
 ```
 
+Running Tests
+mvn clean test
+
 
 ## 📁 Project Structure
 
