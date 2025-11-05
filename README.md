@@ -1,10 +1,7 @@
 # cyzseleniumjava101
 Taking LambdaTest Java 101 Exam
-# 🧪 cyzseleniumjava101
-
 A Selenium + TestNG automation project for LambdaTest Playground.
 
----
 
 ## 📁 Project Structure
 
@@ -45,7 +42,7 @@ Tech Stack
 6) LambdaTest Remote WebDriver
 
 Env: In windows platform:
-set LT_USERNAME="carrieyanzh" `
+set LT_USERNAME="carrieyanzh"
 set LT_ACCESS_KEY="LT_DSaDbhGJPOhItmeOgbK2PVHOkZNm6xTMbaEf0AHHqQJ9GHW"
 
 Test IDs: DA-WIN-2131766-1762304452333376576GIN
