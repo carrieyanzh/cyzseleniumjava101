@@ -3,7 +3,9 @@
 
 A Selenium + TestNG automation project for LambdaTest Playground using Selenium Java with parallel execution on LambdaTest Cloud Grid.
 
-## Prerequisites
+### Test IDs: DA-WIN-2131766-1762314727390766780FOR
+
+### Prerequisites
 
 - Java 17 
 - Maven
@@ -36,9 +38,8 @@ Test Configuration
   - Internet Explorer + 11.0 + Windows 10
 
 
-### Test IDs: DA-WIN-2131766-1762312758239105963NWF
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```bash
 # Project Structure
@@ -70,7 +71,7 @@ cyzseleniumjava101/
 
 
 ----
-Issues: 
+### Issues: 
 Internet Explorer - NOT SUPPORTED
 End of life: June 15, 2022; 
 So adding some checks:
