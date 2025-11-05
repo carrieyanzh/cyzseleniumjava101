@@ -1,0 +1,15 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "Test@123",
+    "company": "LambdaTest",
+    "website": "www.lambdatest.com",
+    "country": "United States",
+    "city": "New York",
+    "address1": "123 Main St",
+    "address2": "Apt 4B",
+    "state": "NY",
+    "zip": "10001"
+  }
+]

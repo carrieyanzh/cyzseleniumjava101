@@ -1,0 +1,25 @@
+image: gitpod/workspace-java-17
+
+# Tasks to run on workspace startup
+tasks:
+  - name: Setup and Build
+    init: |
+      # Display Java version
+      java -version
+      mvn -version
+
+      # Install Maven dependencies
+      mvn clean install -DskipTests
+    command: |
+      echo "Workspace is ready!"
+      echo "Run tests with: mvn test"
+      echo "Or run specific test: mvn test -Dtest=MyTest"
+      echo "Make sure to configure your LambdaTest credentials:"
+      echo "- LT_USERNAME"
+      echo "- LT_ACCESS_KEY"
+
+# VS Code extensions that will be installed
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
+    - vscjava.vscode-maven
