@@ -22,14 +22,24 @@ cyzseleniumjava101/
 │ │ └── org/
 │ │     └── lambdatest/
 │ │         ├── BaseTest.java
-│ │     ├── helper/
-│ │     │   └── JSONReader.java
-│ │     ├── pages/
-│ │     │ ├── SimpleFormDemoScreen.java
-│ │     │ ├── InputFormSubmitScreen.java
-│ │     │ ├── DragDropSlidersScreen.java
-│ │     │ └── SeleniumPlaygroundMainPage.java
-│ │     └── tests/
-│ │         └── PlaygroundAssignTests.java
+│ │         ├── helper/
+│ │         │   └── JSONReader.java
+│ │         ├── pages/
+│ │         │ ├── SimpleFormDemoScreen.java
+│ │         │ ├── InputFormSubmitScreen.java
+│ │         │ ├── DragDropSlidersScreen.java
+│ │         │ └── SeleniumPlaygroundMainPage.java
+│ │         └── tests/
+│ │             └── PlaygroundAssignTests.java
 │ └── resources/
 │     └── testdata.json
+
+
+🧰 Tech Stack
+Java 17
+Selenium 4
+TestNG 7
+Maven
+Page Object Model (POM)
+LambdaTest Remote WebDriver
+
