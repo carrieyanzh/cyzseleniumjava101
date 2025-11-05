@@ -36,7 +36,7 @@ Test Configuration
   - Internet Explorer + 11.0 + Windows 10
 
 
-### Test IDs: DA-WIN-2131766-1762304452333376576GIN
+### Test IDs: DA-WIN-2131766-1762312758239105963NWF
 
 ## 📁 Project Structure
 
@@ -67,11 +67,6 @@ cyzseleniumjava101/
 │     └── testdata.json
 
 ```
-
-
-
-
-
 
 
 ----
