@@ -36,12 +36,10 @@ cyzseleniumjava101/
 
 ```
 
-🧰 Tech Stack
-Java 17
-Selenium 4
+Tech Stack
+1) Java 17
+2) Selenium 4
 TestNG 7
 Maven
 Page Object Model (POM)
 LambdaTest Remote WebDriver
----
-mvn test
