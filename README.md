@@ -43,4 +43,5 @@ TestNG 7
 Maven
 Page Object Model (POM)
 LambdaTest Remote WebDriver
-
+---
+mvn test
