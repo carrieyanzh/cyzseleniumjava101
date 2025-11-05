@@ -19,9 +19,11 @@ set LT_USERNAME="carrieyanzh"
 set LT_ACCESS_KEY="LT_DSaDbhGJPOhItmeOgbK2PVHOkZNm6xTMbaEf0AHHqQJ9GHW"
 ```
 
-Running Tests
+Execute Tests
 ```bash
 mvn clean test
+
+The tests will run in parallel on LambdaTest Grid 
 ```
 
 Test Configuration
@@ -33,6 +35,8 @@ Test Configuration
   - Firefox 130.0 + Windows 11
   - Internet Explorer + 11.0 + Windows 10
 
+
+### Test IDs: DA-WIN-2131766-1762304452333376576GIN
 
 ## 📁 Project Structure
 
@@ -68,7 +72,7 @@ cyzseleniumjava101/
 
 
 
-Test IDs: DA-WIN-2131766-1762304452333376576GIN
+
 
 ----
 Issues: 
