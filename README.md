@@ -34,7 +34,7 @@ cyzseleniumjava101/
 │ └── resources/
 │     └── testdata.json
 
----
+```
 
 🧰 Tech Stack
 Java 17
