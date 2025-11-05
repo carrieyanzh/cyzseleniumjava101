@@ -44,7 +44,7 @@ public class BaseTest {
     ltOptions.put("network", true);
     ltOptions.put("console", true);
     ltOptions.put("visual", true);
-    ltOptions.put("capture_screenshots", true);
+   // ltOptions.put("capture_screenshots", true);
 
     MutableCapabilities browserOptions;
 
