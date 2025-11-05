@@ -20,16 +20,16 @@ cyzseleniumjava101/
 │ └── test/
 │ ├── java/
 │ │ └── org/
-│ │ └── lambdatest/
-│ │ ├── BaseTest.java
-│ │ ├── helper/
-│ │ │ └── JSONReader.java
-│ │ ├── pages/
-│ │ │ ├── SimpleFormDemoScreen.java
-│ │ │ ├── InputFormSubmitScreen.java
-│ │ │ ├── DragDropSlidersScreen.java
-│ │ │ └── SeleniumPlaygroundMainPage.java
-│ │ └── tests/
-│ │ └── PlaygroundAssignTests.java
+│ │     └── lambdatest/
+│ │         ├── BaseTest.java
+│ │     ├── helper/
+│ │     │   └── JSONReader.java
+│ │     ├── pages/
+│ │     │ ├── SimpleFormDemoScreen.java
+│ │     │ ├── InputFormSubmitScreen.java
+│ │     │ ├── DragDropSlidersScreen.java
+│ │     │ └── SeleniumPlaygroundMainPage.java
+│ │     └── tests/
+│ │         └── PlaygroundAssignTests.java
 │ └── resources/
-│ └── testdata.json
+│     └── testdata.json
