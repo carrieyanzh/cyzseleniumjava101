@@ -1,6 +1,23 @@
 # cyzseleniumjava101
-Taking LambdaTest Java 101 Exam
-A Selenium + TestNG automation project for LambdaTest Playground.
+# LambdaTest Selenium Java Certification
+
+A Selenium + TestNG automation project for LambdaTest Playground using Selenium Java with parallel execution on LambdaTest Cloud Grid.
+
+## Prerequisites
+
+- Java 17 
+- Maven
+- LambdaTest Account
+- Selenium 4
+- TestNG 7
+
+### LambdaTest Configuration
+Get LambdaTest credentials:
+```bash
+- In windows platform
+set LT_USERNAME="carrieyanzh"
+set LT_ACCESS_KEY="LT_DSaDbhGJPOhItmeOgbK2PVHOkZNm6xTMbaEf0AHHqQJ9GHW"
+```
 
 
 ## 📁 Project Structure
@@ -33,20 +50,13 @@ cyzseleniumjava101/
 
 ```
 
-Tech Stack
-1) Java 17
-2) Selenium 4
-3) TestNG 7
-4) Maven
-5) Page Object Model (POM)
-6) LambdaTest Remote WebDriver
 
-Env: In windows platform:
-set LT_USERNAME="carrieyanzh"
-set LT_ACCESS_KEY="LT_DSaDbhGJPOhItmeOgbK2PVHOkZNm6xTMbaEf0AHHqQJ9GHW"
+
+
 
 Test IDs: DA-WIN-2131766-1762304452333376576GIN
 
+----
 Issues: 
 Internet Explorer - NOT SUPPORTED
 End of life: June 15, 2022; 
@@ -61,4 +71,5 @@ So adding some checks:
           ltOptions.put("browserVersion", version);
         }
 ```
+
 
