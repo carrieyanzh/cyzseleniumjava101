@@ -20,7 +20,18 @@ set LT_ACCESS_KEY="LT_DSaDbhGJPOhItmeOgbK2PVHOkZNm6xTMbaEf0AHHqQJ9GHW"
 ```
 
 Running Tests
+```bash
 mvn clean test
+```
+
+Test Configuration
+- Framework: TestNG
+- Parallel Execution: class level
+- Browser Combinations:
+  - Chrome + 128.0 + Windows 10
+  - Microsoft Edge + 127.0 + macOS Ventura
+  - Firefox 130.0 + Windows 11
+  - Internet Explorer + 11.0 + Windows 10
 
 
 ## 📁 Project Structure
